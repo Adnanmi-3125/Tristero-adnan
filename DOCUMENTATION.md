@@ -1,4 +1,4 @@
-# 📱 CryptoTrade Pro - Screen Documentation
+# 📱 Adnan - CryptoTrade Pro - Screen Documentation
 
 ## Overview
 This document provides a comprehensive overview of all screens/tabs implemented in the CryptoTrade Pro platform, including design decisions and architectural trade-offs.

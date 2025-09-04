@@ -164,7 +164,7 @@ const EnhancedAppInner = () => {
                                     <TrendingUp className="w-6 h-6 text-white" />
                                 </div>
                                 <div>
-                                    <h1 className="text-lg md:text-xl font-bold text-text-primary">CryptoTrade Pro</h1>
+                                    <h1 className="text-lg md:text-xl font-bold text-text-primary">Adnan CryptoTrade Pro</h1>
                                     <p className="text-xs text-text-secondary hidden sm:block">Paper Trading Platform</p>
                                 </div>
                             </motion.div>
@@ -499,7 +499,7 @@ const EnhancedAppInner = () => {
                 <div className="max-w-7xl mx-auto p-6">
                     <div className="flex flex-col md:flex-row justify-between items-center gap-4">
                         <p className="text-text-secondary text-sm">
-                            © 2025 CryptoTrade Pro - Advanced Paper Trading Platform
+                            © 2025 Adnan CryptoTrade Pro - Advanced Paper Trading Platform
                         </p>
                         <div className="flex flex-wrap items-center gap-2 md:gap-4 text-xs text-text-secondary">
                             <span className="flex items-center gap-1">
